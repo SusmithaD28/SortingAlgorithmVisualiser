@@ -1,8 +1,6 @@
 # Sorting Visualizer
 The Sorting Visualizer is a web application that provides a visual representation of various sorting algorithms. It allows users to observe and understand how different sorting algorithms work by animating the sorting process.
 
-Visit the live site: https://sorting-visuallizer.netlify.app/
-
 ## Features
 - Interactive visualization: Users can visualize sorting algorithms in action.
 - Multiple sorting algorithms: The application supports various sorting algorithms, including bubble sort, insertion sort, selection sort, merge sort, quick sort, and more.
@@ -23,5 +21,10 @@ Visit the live site: https://sorting-visuallizer.netlify.app/
 - HTML
 - CSS
 - JavaScript
+
+## How to use?
+- Clone this repository
+- Open index.html in your computer.
+
 
 **Enjoy visualizing sorting algorithms with Sorting Visualizer!**
